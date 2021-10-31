@@ -1,17 +1,13 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ratchanonp)](https://github.com/ratchanonp)
 
-<!--
-**ratchanonp/ratchanonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi. I'm Ratchanon Panmas, a first-year computer science student at Chulalongkorn University. I'm learning python,web-programming like nextjs and graphql.
+I have experience with the Olympics in informatics, and I enjoy about competitive programing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 👋  &nbsp;&nbsp;Ratchanon Panmas
+- 🎓  &nbsp;&nbsp;Computer Science Student
+- 🏫  &nbsp;&nbsp;Chulalongkorn University
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratchanonp&show_icons=true&hide_title=true&count_private)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratchanonp&layout=compact)

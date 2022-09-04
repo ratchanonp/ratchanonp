@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-👋 Hi. I'm Ratchanon Panmas, a first-year computer science student at Chulalongkorn University. I'm learning python,web-programming like nextjs and graphql.
-I have experience with the Olympics in informatics, and I enjoy about competitive programing.
+👋 Hey, I'm Ratchanon Panmas, a sophomore computer science student at Chulalongkorn University. I'm currently a Google Developer Student Club Leader. I'm learning Python and web-programming like NextJS and GraphQL. I have experience with the Olympics in informatics, and I enjoy competitive programming.
 
 ## About me
 - 👋  &nbsp;&nbsp;Ratchanon Panmas

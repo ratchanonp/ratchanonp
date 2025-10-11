@@ -1,13 +1,21 @@
-### Hi there 👋
+# Hi, I'm Ratchanon Panmas 👋
 
+## About Me
 
-👋 Hey, I'm Ratchanon Panmas, a senior computer science student at Chulalongkorn University. I'm formerly a Google Developer Student Club Leader. I'm learning Python and web-programming like NextJS and GraphQL. I have experience with the Olympics in informatics, and I enjoy competitive programming.
+I'm a Contract Software Developer at Agoda with a passion for cloud infrastructure and DevOps practices. I specialize in enhancing Kubernetes cluster observability and implementing strategies to reduce system downtime. I work collaboratively with cross-functional teams to drive operational efficiency and improve overall system performance.
 
-## About me
-- 👋  &nbsp;&nbsp;Ratchanon Panmas
-- 🎓  &nbsp;&nbsp;Computer Science Student
-- 🏫  &nbsp;&nbsp;Chulalongkorn University
-- 🚩  &nbsp;&nbsp;GDSC Leader Chulalongkorn University
+## 🛠️ Interests
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratchanonp&show_icons=true&hide_title=true&count_private)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratchanonp&layout=compact)
+- Cloud Infrastructure
+- DevOps Practices
+- Kubernetes
+- System Observability
+- Cloud Technologies
+
+## 🌱 Always Learning
+
+Committed to continuous learning and staying updated with the latest advancements in technology, particularly in cloud infrastructure and DevOps.
+
+---
+
+*Feel free to reach out if you'd like to collaborate or discuss cloud technologies and DevOps practices!*

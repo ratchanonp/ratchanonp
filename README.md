@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Contract Software Developer at Agoda with a passion for cloud infrastructure and DevOps practices. I specialize in enhancing Kubernetes cluster observability and implementing strategies to reduce system downtime. I work collaboratively with cross-functional teams to drive operational efficiency and improve overall system performance.
+I'm a Associate Software Engineer at Agoda with a passion for cloud infrastructure and DevOps practices. I specialize in enhancing Kubernetes cluster observability and implementing strategies to reduce system downtime. I work collaboratively with cross-functional teams to drive operational efficiency and improve overall system performance.
 
 ## 🛠️ Interests
 
